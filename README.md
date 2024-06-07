@@ -8,7 +8,5 @@
 - 📫 How to reach me: setienne97231@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A day on Venus is longer than a year on Venus.
-<!--
-**Clemenx972/Clemenx972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('(https://github.com/Clemenx972/Clemenx972/blob/main/Gear5_Luffy.jpg)');]{x0000}$}
