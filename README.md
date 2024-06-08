@@ -12,4 +12,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 60vh; object-fit: cover; background-size: cover !important; width: 60vw; opacity: 0.5; background:url('https://github.com/Clemenx972/Clemenx972/assets/81476817/2b009284-f6fa-4383-9420-f20fe3785e82');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 90vh; object-fit: cover; background-size: cover !important; width: 100vw; opacity: 0.5; background:url('https://github.com/Clemenx972/Clemenx972/assets/81476817/2b009284-f6fa-4383-9420-f20fe3785e82');]{x0000}$}
